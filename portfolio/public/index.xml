@@ -6,8 +6,15 @@
     <description>Recent content on George&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2025 18:40:54 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 18:46:09 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 09 Feb 2025 18:46:09 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;✉️ &lt;a href=&#34;mailto:gbotros@seas.upenn.edu&#34;&gt;gbotros@seas.upenn.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;💼 &lt;a href=&#34;https://linkedin.com/in/georgebotros02&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;📸 &lt;a href=&#34;https://www.instagram.com/georgebotros1/&#34;&gt;Instagram&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Résumé</title>
       <link>http://localhost:1313/resume/</link>
